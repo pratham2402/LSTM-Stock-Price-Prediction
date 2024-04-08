@@ -1,36 +1,33 @@
 
-
 # Script Title
 
-Add a jpeg/png/gif file here if applicable
-
-<!--An image is an illustration for your project, the tip here is using your sense of humour as much as you can :D 
-
-You can copy paste my markdown photo insert as following:
 <p align="center">
-<img src="your-source-is-here" width=40% height=40%>
--->
+<img src="https://static.vecteezy.com/system/resources/previews/008/089/798/original/financial-future-price-prediction-or-the-future-price-trend-of-the-stock-market-or-crypto-currency-investing-in-the-unpredictable-uncertainty-vector.jpg" width=40% height=40%>
+
 
 ## 🛠️ Description
 <!--Remove the below lines and add yours -->
-A short description about the script must be mentioned here.
+Predict future stock prices using LSTM neural networks. This beginner-friendly project analyzes past stock data to forecast future trends, helping users make informed investment decisions.
 
 ## ⚙️ Languages or Frameworks Used
 <!--Remove the below lines and add yours -->
-Modules required to be able to use the script successfully
-and how to install them.
-(If there are a lot of them, including a `requirements.txt` file will work better.)
+    Python: The primary programming language for writing the script and implementing the LSTM model.
+    Pandas: A Python library for data manipulation and analysis. It's commonly used for handling the historical stock price data.
+    NumPy: A fundamental package for numerical computing in Python. It's used for array manipulation and mathematical operations, often in conjunction with Pandas.
+    Matplotlib: A plotting library for creating visualizations in Python. It's used for plotting the actual and predicted stock prices.
+    Keras: A high-level neural networks API, written in Python and capable of running on top of TensorFlow. It's used for building and training the LSTM model.
+    scikit-learn (optional): If you're performing additional data preprocessing or evaluation tasks beyond what Keras provides, you might use scikit-learn, a machine learning library in Python.
 
 ## 🌟 How to run
 <!--Remove the below lines and add yours -->
-Steps on how to run the script along with suitable examples.
+To run the LSTM stock price prediction script, follow these steps:
+1) Clone the repository
+2) Install dependencies using- pip install -r requirements.txt
+3) Run the python script in Jupyter Lab or Notebook
 
 ## 📺 Demo
-Add a Screenshot/GIF showing the sample use of the script (jpeg/png/gif).
+![image](https://github.com/pratham2402/LSTM-Stock-Price-Prediction/assets/125042746/8c587285-bf13-46fe-95ba-6197677799e6)
 
 ## 🤖 Author
-<!--Remove the below lines and add yours -->
-The name of the author of the code goes here.
-If you have a web site or a Git user name, feel free to link.
+[pratham2402](https://github.com/pratham2402)
 
-# LSTM-Stock-Price-Prediction
