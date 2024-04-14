@@ -1,4 +1,4 @@
-
+ 
 # Google Stock Price Prediction
 <!--Random Image-->
 <p align="center">
